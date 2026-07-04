@@ -5,7 +5,6 @@
 
 ![PHP Version](https://img.shields.io/badge/PHP-8.3-blue)
 ![Database](https://img.shields.io/badge/Database-SQLite-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 
 ---
@@ -117,13 +116,9 @@ chmod -R 755 /home/user/privates
 - رمز عبور پیش‌فرض را بلافاصله تغییر دهید.
 - از پروتکل HTTPS استفاده کنید.
 
----
-
-## 📄 لایسنس
-
-این پروژه تحت لایسنس Creative Commons Zero v1.0 Universal منتشر شده است.  
-برای استفادهٔ تجاری ازاد نیستید.
-
+---حقوق و مالکیت
+© تمامی حقوق برای توسعه‌دهندهٔ این پروژه محفوظ است.
+استفاده، کپی، تغییر یا توزیع هر بخش از کدها بدون اجازهٔ کتبی و صریح از سوی مالک پروژه اکیداً ممنوع است.
 ---
 
 ## 🧑‍💻 توسعه‌دهنده
